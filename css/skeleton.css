@@ -326,7 +326,7 @@ li {
 
 .cv_image {
 
-  border: 1px solid #E1E1E1;
+  /*border: 1px solid #E1E1E1;*/
   /* margin: 2.5rem 12rem; */
   float: right;
   width: 320px;
