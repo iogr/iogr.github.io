@@ -331,6 +331,26 @@ li {
   width: 320px;
   z-index: 1; }
 
+/* Images
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/*contacts {*/
+
+/*}*/
+
+/*.bottom-right {*/
+/*  position: absolute;*/
+/*  bottom: 8px;*/
+/*  right: 16px;*/
+/*}*/
+
+/*.centered {*/
+/*  z-index: 1000;*/
+/*  position: absolute;*/
+/*  right: 15%;*/
+/*  !*transform: translate(-50%, -50%);*!*/
+/*}*/
+
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
